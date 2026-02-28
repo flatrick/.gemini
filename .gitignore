@@ -1,0 +1,14 @@
+# Ignore Antigravity artifacts and state files
+antigravity/annotations/
+antigravity/brain/
+antigravity/code_tracker/
+antigravity/context_state/
+antigravity/conversations/
+antigravity/html_artifacts/
+antigravity/implicit/
+antigravity/knowledge/
+antigravity/playground/
+
+# Ignore machine-specific and binary settings
+antigravity/installation_id
+antigravity/user_settings.pb
