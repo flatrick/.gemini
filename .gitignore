@@ -12,3 +12,6 @@ antigravity/playground/
 # Ignore machine-specific and binary settings
 antigravity/installation_id
 antigravity/user_settings.pb
+
+# Ignore local browser runtime profile
+antigravity-browser-profile/
